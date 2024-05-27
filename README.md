@@ -20,7 +20,7 @@ Topics; Greedy Algorithm, Dynamic Programming, Backtracking, and Divide and Conq
 12. Problem 12 Divide and Conquer
 
 ## Setup
-1. Clone the project: git clone https://github.com/buseipek-ncrgl/Data_Structures_and_Algorithms_Major_Assignment.git
+1. Clone the project: git clone https://github.com/fevzihan00/DSA2.git
 2. Install the C++ compiler (for example, g++), the C++ compiler environment (for example, GCC), and the necessary dependencies required for the compilation process.
 
 ## Operating Instructions
@@ -28,5 +28,5 @@ There is a separate C++ file for each problem. At the beginning of each file are
 
 Follow these steps to resolve any problems:
 1. Open the relevant C++ file.
-2. Compile the file: g++ Problem 1 Greedy Algorithm.cpp -o Problem 1 Greedy Algorithm.
-3. Run the resulting executable: ./Problem 1 Greedy Algorithm.
+2. Compile the file: g++ major.cpp -o major.
+3. Run the resulting executable: ./major.
